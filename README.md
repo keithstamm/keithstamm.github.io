@@ -1,6 +1,7 @@
-# keithstamm.github.io
+# Engineer
 ### Education
 BS Mechanical Engineering, University of Missouri
+
 MBA, Finance, Rockhurst University
 ### Experience
 Test1
