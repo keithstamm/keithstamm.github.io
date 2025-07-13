@@ -3,7 +3,7 @@
 BS Mechanical Engineering, University of Missouri
 
 MBA, Finance, Rockhurst University
-### Experience
+### Work Experience
 Test1
 
 Test2
